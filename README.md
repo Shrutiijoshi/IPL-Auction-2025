@@ -14,4 +14,4 @@ Source : [IPL_Auction_2025_Dataset](https://www.kaggle.com/datasets/souviksamant
 5. Sold : Sold Prices
 
 ## ⚙️ Tool used :
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg)
+[<img src="./Code_outputs/mysql_logo.png" alt="myql-logo" width="100"/>]
