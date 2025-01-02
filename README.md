@@ -26,7 +26,7 @@ Source : [IPL_Auction_2025_Dataset](https://www.kaggle.com/datasets/souviksamant
 - The total expenditure in the IPL auction increased by approximately **177.35%** from 2024 to 2025.
 - Franchises collectively spent a record-breaking **₹639.15 crore** to acquire 182 players
 
-## 🧠 Data Story :
+## 🧠 Conclusion :
 The IPL 2025 auction reinforced the league's status as one of the most lucrative and competitive cricket tournaments in the world. The high spending indicates franchises' growing desire to strengthen their squads with top-tier players, all-rounders, and emerging talent. This sets the stage for an even more thrilling and competitive season in 2025.
 #### This project uncovers these narratives:
 1. **Record Spending**: The franchises collectively spent a massive ₹639.15 crore on acquiring 182 players, marking a substantial increase in the overall expenditure compared to previous years.
