@@ -36,6 +36,8 @@ The IPL 2025 auction reinforced the league's status as one of the most lucrative
 3. **Emerging Talent**: The auction also witnessed emerging players being bought for impressive amounts, highlighting the IPL's continued focus on nurturing young talent. A notable example was 13-year-old Vaibhav Suryavanshi, who was bought by Rajasthan Royals for ₹1.10 crore, making him the youngest-ever player sold at an IPL auction.
 4. **International and Domestic Balance**: While international stars like Mitchell Starc and Pat Cummins were highly sought after, a significant portion of the funds was also invested in promising Indian domestic players, reinforcing the league's commitment to showcasing local talent alongside global superstars.
 
-[<img src="https://hindi.crictoday.com/wp-content/uploads/2024/08/202401183107287-1.png" alt="ipl_banner" width="1000" height="300">](https://hindi.crictoday.com/wp-content/uploads/2024/08/202401183107287-1.png) &nbsp;
+## 📂Dashboard :
+
+[<img src="https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/ipl.png" alt="ipl_banner" width="1000" height="600">](https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/ipl.png) &nbsp;
 
 
