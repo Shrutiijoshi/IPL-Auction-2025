@@ -15,7 +15,7 @@ Source : [IPL_Auction_2025_Dataset](https://www.kaggle.com/datasets/souviksamant
 5. Sold : Sold Prices
 
 ## ⚙️Tool used :
-[<img src="https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/Microsoft_Office_Excel_Logo_512px.png" alt="Excel Logo" width="100" height="90">](https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/Microsoft_Office_Excel_Logo_512px.png) &nbsp;
+[<img src="https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/Microsoft_Office_Excel_Logo_512px.png" alt="Excel Logo" width="100" height="70">](https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/Microsoft_Office_Excel_Logo_512px.png) &nbsp;
 
 ## 🚀Project Goals :
 - Analyze spending trends across franchises
