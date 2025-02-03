@@ -38,6 +38,6 @@ The IPL 2025 auction reinforced the league's status as one of the most lucrative
 
 ## 📂Dashboard :
 
-[<img src="https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/ipl.png" alt="ipl_banner" width="1000" height="600">](https://github.com/Shrutiijoshi/IPL-Auction-2025/blob/main/ipl.png) &nbsp;
+[<img src="IPL.PNG" alt="ipl_banner" width="1000" height="600">](IPL.PNG) &nbsp;
 
 
